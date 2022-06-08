@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect_Paw_Albu_Teodora_Malina", "Proiect_Paw_Albu_Teodora_Malina.csproj", "{3677DC17-88CA-4165-8670-E1810DF82462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3677DC17-88CA-4165-8670-E1810DF82462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3677DC17-88CA-4165-8670-E1810DF82462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3677DC17-88CA-4165-8670-E1810DF82462}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3677DC17-88CA-4165-8670-E1810DF82462}.Debug|x64.Build.0 = Debug|Any CPU
+		{3677DC17-88CA-4165-8670-E1810DF82462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3677DC17-88CA-4165-8670-E1810DF82462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3677DC17-88CA-4165-8670-E1810DF82462}.Release|x64.ActiveCfg = Release|Any CPU
+		{3677DC17-88CA-4165-8670-E1810DF82462}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6F417FC-0700-40EA-94F7-665EE22026E9}
+	EndGlobalSection
+EndGlobal
